@@ -1,0 +1,18 @@
+# Ignorer l'environnement virtuel Python
+venv/
+
+# Cache Python et artefacts
+__pycache__/
+*.pyc
+
+# Fichiers de base de données
+*.db
+
+# Fichiers d'environnement ou de config sensibles
+.env
+*.env
+
+# Fichiers système (si jamais généré sur d'autres machines)
+.DS_Store
+Thumbs.db
+
